@@ -3,8 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ericsson.devops</groupId>
-  <artifactId>com.ericsson.devops</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>team6</artifactId>
+  <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>com.ericsson.devops</name>
